@@ -1,0 +1,46 @@
+body {
+    border: 2px solid white;
+    margin: 30px;
+    height: 600px;
+    background-color: navy;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+.titulo {
+    border: 2px solid white;
+    margin: 30px;
+}
+
+.contenedor-principal {
+    border: 2px solid gold;
+    margin-top: 120px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.contenedor-input {
+    border: 2px solid white;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+
+
+.input-titulo {
+    color: white;
+}
+
+.input-usuario {
+    color: black;
+}
+
+.input-contraseña {
+    color: black;
+}

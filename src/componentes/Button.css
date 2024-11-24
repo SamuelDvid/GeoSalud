@@ -1,0 +1,8 @@
+.button-container{
+    border: 2px solid gold;
+    height: 30px;
+    width: 100px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
