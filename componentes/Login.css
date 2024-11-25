@@ -1,0 +1,25 @@
+body {
+    border: 2px solid white;
+    background-color: navy;
+    color: white;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.encabezado, .titulo, .subtitulo{
+    border: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor-principal{
+    border: 2px solid white;
+}
+.ingresar{
+    color: white;
+}
