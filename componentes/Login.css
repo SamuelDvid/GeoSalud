@@ -20,6 +20,12 @@ body {
 .contenedor-principal{
     border: 2px solid white;
 }
+
 .ingresar{
     color: white;
+}
+
+.navegacion-ingreso{
+    color: white;
+    text-decoration: none;
 }

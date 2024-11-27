@@ -38,3 +38,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#apikey-firebase
+const firebaseConfig = {
+  apiKey: "AIzaSyC9jnT6Yrz_9t4ODYREEB7N3dIK-YsOn6o",
+  authDomain: "prueba-f7a8f.firebaseapp.com",
+  projectId: "prueba-f7a8f",
+  storageBucket: "prueba-f7a8f.firebasestorage.app",
+  messagingSenderId: "432561130224",
+  appId: "1:432561130224:web:abdc0acdfaa586b1241035",
+  measurementId: "G-M8VKD7B27V"
+};

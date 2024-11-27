@@ -1,0 +1,13 @@
+body{
+    border: 2px solid rgb(233, 228, 204);
+    background-color: navy;
+    color: white;
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+.navegacion-open{
+    color: white;
+    text-decoration: none;
+}

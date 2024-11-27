@@ -1,11 +1,12 @@
+import "./global.css";
+
 const HomePage = () => {
   return (
     <div>
-      <h1>Bienvenido a Geosalud</h1>
-      <p>Te atendemos DE UNA!</p>
-
       <h3>
-        <a href="/inicio">Ingresar</a>
+        <a href="/inicio" className="navegacion-open">
+          GeoSalud
+        </a>
       </h3>
     </div>
   );

@@ -18,7 +18,9 @@ const Login = () => {
         </h2>
 
         <h2 className="ingresar">
-          <a href="./cuenta">Ingresar</a>
+          <a href="./cuenta" className="navegacion-ingreso">
+            Ingresar
+          </a>
         </h2>
       </body>
     </html>
