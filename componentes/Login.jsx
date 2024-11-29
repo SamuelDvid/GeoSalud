@@ -9,7 +9,7 @@ const Login = () => {
 
         <section className="contenedor-login">
           <div className="usuario">
-            <span className="usuario-input">Usuario</span>
+            <span className="usuario-input">Nombre</span>
             <input type="text" />
           </div>
 

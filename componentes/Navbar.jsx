@@ -8,8 +8,8 @@ export default function Navbar() {
           <div className="dropdown">
             Ingreso
             <div className="dropdown-content">
-              <a href="">Usuario</a>
-              <a href="">Eps</a>
+              <a href="/inicio">Usuario</a>
+              <a href="#">Eps</a>
             </div>
           </div>
         </h2>
