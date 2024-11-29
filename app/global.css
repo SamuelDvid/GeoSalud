@@ -1,16 +1,18 @@
 body{
     background-color: aquamarine;
-    color: red;
+    color: azure;
 }
 
 .titulo{
     display: flex;
     justify-content: center;
-
+    font-weight: bold;
+    font-size: 60px;
+    color: navy;
 }
 
 a{
-    color: rgb(100, 29, 29);
+    color: black;
     font-weight: bold;
     text-decoration: none;
 }

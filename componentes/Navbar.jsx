@@ -31,9 +31,10 @@ export default function Navbar() {
         </h2>
         <h2>
           <div className="dropdown">
-            Ayuda y Soporte
+            Contactanos
             <div className="dropdown-content">
-              <a href="">Contactanos</a>
+              <a href="#">Ayuda</a>
+              <a href="#">Soporte</a>
             </div>
           </div>
         </h2>

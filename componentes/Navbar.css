@@ -10,12 +10,14 @@
 .dropdown {
     display: inline-block;
     position: relative;
+   
     color: rgb(34, 3, 3);
   }
 
   .dropdown-content {
     display: none;
     position: absolute;
+    background: linear-gradient(rgb(168, 168, 216), white);
     width: 200px;
     overflow: 40px;
     box-shadow: 0px 10px 10px 0px ;
