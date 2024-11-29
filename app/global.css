@@ -1,13 +1,16 @@
 body{
-    border: 2px solid rgb(233, 228, 204);
-    background-color: navy;
-    color: white;
-    font-size: 100px;
+    background-color: aquamarine;
+    color: red;
+}
+
+.titulo{
     display: flex;
     justify-content: center;
-    height: auto;
+
 }
-.navegacion-open{
-    color: white;
+
+a{
+    color: rgb(100, 29, 29);
+    font-weight: bold;
     text-decoration: none;
 }

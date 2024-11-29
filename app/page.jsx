@@ -3,11 +3,7 @@ import "./global.css";
 const HomePage = () => {
   return (
     <div>
-      <h3>
-        <a href="/inicio" className="navegacion-open">
-          GeoSalud
-        </a>
-      </h3>
+      <h3> </h3>
     </div>
   );
 };

@@ -1,5 +1,4 @@
 body {
-    border: 2px solid white;
     background-color: navy;
     color: white;
     height: auto;
@@ -9,16 +8,31 @@ body {
     align-items: center;
 }
 
+h2{
+    margin-left: 5px;
+}
+
 .encabezado, .titulo, .subtitulo{
-    border: 2px solid white;
+  
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
 
-.contenedor-principal{
-    border: 2px solid white;
+
+.contenedor-login{
+    border: 2px solid gold;
+}
+
+.usuario, .password{
+    margin: 10px;
+}
+
+
+.usuario-input, .password-input{
+    margin-right: 10px;
+    font-weight: bold;
 }
 
 .ingresar{
