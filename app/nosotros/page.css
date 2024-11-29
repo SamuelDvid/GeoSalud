@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    color: rgb(2, 2, 34);
+}
+
+.titulo{
+    
+}
+
+.contenedor-articulo{
+    border: 3px solid gold;
+    width: 400px;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+}
