@@ -1,5 +1,6 @@
 import Link from "next/link";
 import "./Navbar.css";
+
 export default function Navbar() {
   return (
     <div>
@@ -8,8 +9,8 @@ export default function Navbar() {
           <div className="dropdown">
             Ingreso
             <div className="dropdown-content">
-              <a href="/inicio">Usuario</a>
-              <a href="#">Eps</a>
+              <a href="/usuario">Usuario</a>
+              <a href="/eps">Eps</a>
             </div>
           </div>
         </h2>

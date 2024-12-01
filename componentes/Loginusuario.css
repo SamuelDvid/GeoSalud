@@ -1,0 +1,63 @@
+body {
+    background-color: aquamarine;
+    color: black;
+
+}
+
+h2 {
+    margin-left: 5px;
+}
+
+.contenedor {
+    border: 2px solid navy;
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor-login {
+    border: 2px solid black;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.encabezado,
+.titulo,
+.subtitulo {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.usuario,
+.password {
+    margin: 10px;
+}
+
+
+.usuario-input,
+.password-input {
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.input {
+    border: 2px solid blue;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.ingresar {
+    color: white;
+}
+
+.navegacion-ingreso {
+    text-decoration: none;
+}
