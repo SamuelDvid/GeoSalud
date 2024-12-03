@@ -30,14 +30,9 @@ export default function Navbar() {
             </div>
           </div>
         </h2>
+
         <h2>
-          <div className="dropdown">
-            Contactanos
-            <div className="dropdown-content">
-              <a href="#">Ayuda</a>
-              <a href="#">Soporte</a>
-            </div>
-          </div>
+          <Link href="https://wa.me/3003264021">Contactanos</Link>
         </h2>
       </nav>
     </div>
