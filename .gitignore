@@ -1,7 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
 /.pnp
 .pnp.*
 .yarn/*
@@ -49,3 +48,4 @@ const firebaseConfig = {
   appId: "1:432561130224:web:abdc0acdfaa586b1241035",
   measurementId: "G-M8VKD7B27V"
 };
+node_modules
